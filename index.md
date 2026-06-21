@@ -12,11 +12,11 @@ During my time here in the Computer Science program, I have learned various conc
 Moreover, the experience I acquired as I progressed through the program made me aware of the importance of the client, to fulfill the goals and needs of the company as well as the user. For this, I learned how communication and teamwork are a core value to have as a software developer, which is my primary field of focus.
 
  Some examples of the work that I have done in the past are as follows:
->	Scene recreation in C++ using graphic and visualization concepts using various shapes combined with transformation, scaling, and rotating methods. (CS-330)
->	Software Test and Automation in Java using various types of bound checking and Junit tests for input validation, throwing an exception when appropriate. (CS-320)
->	Thermostat application in Python that interacts with hardware and sensors to obtain the temperature and send the data over to a server. (CS-350)
->	Mobile Architect and Programing in Java with XML using Android studio to make an inventory management application. (CS-360)
->	Full Stack Development using the MEAN stack to build a travel website that interacts with both client and server using JavaScript, CSS and HTML. (CS-465)
+-	Scene recreation in C++ using graphic and visualization concepts using various shapes combined with transformation, scaling, and rotating methods. (CS-330)
+-	Software Test and Automation in Java using various types of bound checking and Junit tests for input validation, throwing an exception when appropriate. (CS-320)
+-	Thermostat application in Python that interacts with hardware and sensors to obtain the temperature and send the data over to a server. (CS-350)
+-	Mobile Architect and Programing in Java with XML using Android studio to make an inventory management application. (CS-360)
+-	Full Stack Development using the MEAN stack to build a travel website that interacts with both client and server using JavaScript, CSS and HTML. (CS-465)
 
 Here are the five course outcomes that my final project addresses.
 
@@ -25,7 +25,7 @@ Here are the five course outcomes that my final project addresses.
 3.	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. This pertains to the implementation of appropriate algorithmic practices that would allow the program to execute commands fast and effectively in as short of a time as possible.
 4.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. This is to apply any method appropriate to the programing language used to create a working software that meets the goals and requirements of the user.
 5.	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. Crucial implementation of secure methods is necessary to ensure data is protected from any attempt to breach and exploit the information within. For this, a secure coding standard is followed to prevent any unauthorized access and keep the data safe, ensuring confidentiality and reliability.
-6.	
+	
 In this self-assessment, I worked on my previous Gracioso Salvare project from CS-340, which is a software application developed in Python and Jupiter Notebook, to create and display a dashboard using CRUD functionality from a MongoDB database. This database contains data from the animal shelter obtained from a CSV file. It is used to import and display this information in a dashboard, with filters added for suitable dogs for search and rescue training. I performed all three of my planned enhancements using solely this artifact to fulfill all five course outcomes.
 
 ### Code Review
