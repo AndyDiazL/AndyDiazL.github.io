@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   CS-499 ePortfolio made to showcase my final project work.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: air
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
