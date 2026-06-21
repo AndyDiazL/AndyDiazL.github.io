@@ -28,8 +28,11 @@ Here are the five course outcomes that my final project addresses.
 	
 In this self-assessment, I worked on my previous Gracioso Salvare project from CS-340, which is a software application developed in Python and Jupiter Notebook, to create and display a dashboard using CRUD functionality from a MongoDB database. This database contains data from the animal shelter obtained from a CSV file. It is used to import and display this information in a dashboard, with filters added for suitable dogs for search and rescue training. I performed all three of my planned enhancements using solely this artifact to fulfill all five course outcomes.
 
+Here is the [original artifact](https://github.com/AndyDiazL/CS-499-14571-M01-Computer-Science-Capstone/tree/main/Original%20Artifact)
+
 ### Code Review
-Before performing all the enhancements, I performed a code review to analyze the code and explore ways that I could improve or change it while conserving the necessary functionality required from the project. This allowed me to communicate my plans for the project and understand better how each function works, fulfilling ways to employ strategies to tackle that project and communicate my insights and objectives. 
+Before performing all the enhancements, I performed a code review to analyze the code and explore ways that I could improve or change it while conserving the necessary functionality required from the project. This allowed me to communicate my plans for the project and understand better how each function works, fulfilling ways to employ strategies to tackle that project and communicate my insights and objectives.
+
 Here is the link of the [CS-499 Code Review](https://youtu.be/DYEsWcrfLhQ).
 
 ### Enhancement One: Software Design and Engineering
@@ -40,9 +43,9 @@ This enhancement showcases my ability to recreate this project using a different
 ### Enhancement Two: Algorithms and Data Structure
 In this enhancement, I showcase my ability to apply my knowledge of algorithms to implement a sort and search functionality for the table. The previous project already had a predetermined method to sort the dashboard thanks to the use of Plotly’s open-source library for Python. In C++, I wanted to implement a function to sort the list both in ascend and descend order by the usage of the quick sort for faster iteration. I allowed users to sort by different options such as animal type, breed, color, name and sex upon outcome. I also implemented a search function that takes input from the user. First, the list must be sorted by animal ID to perform the search properly. Then, I used the lower bound algorithm to search the list which returns the iterator pointing at the entry that matches that given animal ID along with every piece of information related to it. However, if it is not found, then it will instead display that the animal ID could not be found and go back to the main menu. This added additional functionality in the code by implementing necessary algorithms that work fast and efficiently. This enhancement allowed me to demonstrate ways to apply algorithmic principles and computer science practices to work with data structures and display them to the user as they need.
 
--Access to: Enhancement Two
+-Access to: [Enhancement Two](https://github.com/AndyDiazL/CS-499-14571-M01-Computer-Science-Capstone/tree/main/Enhancement%20Two)
 
 ### Enhancement Three: Databases
 In this enhancement, I made the transition from MongoDB database to use a MySQL database instead. I selected this item to demonstrate my ability to implement a different kind of database, to achieve the same goals of reading a CSV into MySQL and be able to create, read, update and delete content from a database table such as animal_shelter using C++. Not only was I able to implement necessary the necessary database skills to create those necessary functions, but I also applied secure techniques by including the proper libraries and making use of prepared statements when necessary to ensure safety against SQL injections during input. I have also expanded upon security by checking input extensively to prevent bad input from causing problems during the software execution. And finally, I included a secure login into the database for access, with an admin account and a guest account available that have their corresponding level of access. This enhancement fulfilled the last course’s outcome to develop secure software by designing code that prevents exploits, improves design and protects data and resources. It further improved the communication of said functions within the code and used more techniques and skills to implement the necessary solutions for the goals of this project, fulfilling all five outcomes.
 
--Access to: Enhancement Three
+-Access to: [Enhancement Three](https://github.com/AndyDiazL/CS-499-14571-M01-Computer-Science-Capstone/tree/main/Enhancement%20Three)
