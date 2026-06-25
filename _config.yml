@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Andy Diaz Lago"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "University student at Southern New Hampshire Universtity."
+  bio    : "Student at Southern New Hampshire University."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
